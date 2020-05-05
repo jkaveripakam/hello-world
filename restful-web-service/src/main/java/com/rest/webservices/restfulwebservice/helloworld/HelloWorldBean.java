@@ -16,8 +16,8 @@ public class HelloWorldBean {
 		return message;
 	}
 
-	public void setMessage(String message) {
-		this.message = message;
+	public void setMessage(String message1) {
+		this.message = message1;
 	}
 
 	@Override
